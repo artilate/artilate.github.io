@@ -1,0 +1,15 @@
+*{
+    font-family:  Helvetica, sans-serif;
+    color: #e0def4;
+    background-color: #191724;
+    box-sizing: border-box;
+}
+
+body{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.center{
+    text-align: center;
+}
